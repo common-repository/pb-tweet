@@ -1,0 +1,11 @@
+0.1.0 - 2010-06-21 - Matt Danner
+	Initial Release Version
+0.1.1 - 2010-08-04 - Matt Danner
+	Fixed IE bug
+0.1.2 - 2010-09-21 - Matt Danner
+	Updated to support changes in Twitter API
+1.0.1 - 2012-10-17 - Matt Danner
+	Combine all plugin settings to one page
+	Settings page moved under options-general.php
+	Cleaned up code to remove some waste
+	Removed link color

@@ -1,0 +1,23 @@
+#tweet-outer {
+	height: 25px;
+	color: #222222;
+	font-size: 12px;
+	background: #FFFFFF;
+}
+#tweet {
+	width: 95%;
+	height: 25px;
+	vertical-align: top;
+	margin: 0 auto;
+	font-size: 1.1em;
+	text-align: center;
+	line-height: 1.9em;;
+}
+#tweet a {
+	vertical-align: top;
+	text-decoration: none;
+}
+#the-tweet  {
+	display: inline;
+	vertical-align: top;
+}
